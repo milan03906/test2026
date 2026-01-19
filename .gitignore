@@ -1,0 +1,4 @@
+node_modules/
+#*.py
+test.py
+.env
